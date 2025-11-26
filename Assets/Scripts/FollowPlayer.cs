@@ -19,4 +19,5 @@ public class FollowPlayer : MonoBehaviour
        transform.position = player.transform.position + offset;
      //   transform.rotation = transform.rotation(CameraRotationX, CameraRotationY, CameraRotationZ);
     }
+   
 }
